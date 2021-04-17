@@ -1,0 +1,6 @@
+print("First Number:")
+first_number = input()
+print("Second Number:")
+second_number = input()
+sum = int(first_number) + int(second_number)
+print('Soma: ' + str(sum))
